@@ -1,43 +1,59 @@
 <template>
   <MainLayout>
     <header class="mv-header mv-header-bg px-3 px-sm-4">
-      <h1 class="fw-bold text-primary">Multividas blog</h1>
+      <h1 class="fw-bold text-primary">Multividas Blog</h1>
       <h4 class="fw-bold text-muted my-2">
-        Official Multividas Blog - Your source for insights and information about Multividas
+        Official Multividas Blog - Your go-to source for insights and information about Multividas
       </h4>
     </header>
-    <main class="container px-4 py-2 my-4 py-md-5 my-md-2">
-      <div class="card">
-        <div class="card-body">
+    <main class="container main-container px-4 py-2 my-4 py-md-5 my-md-2">
+      <article class="card mb-4">
+        <header class="card-header">
+          <h2 class="fw-bold text-primary">About Multividas.com</h2>
+        </header>
+        <section class="card-body">
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut
-            repudiandae fuga quo tenetur deserunt ad culpa, odio eaque
-            consectetur laudantium vero quia veniam provident at architecto
-            debitis molestiae perferendis aut sapiente incidunt consequuntur
-            quae sequi dolore rem. Nulla sint, facilis ut laudantium praesentium
-            vero eum accusamus quo perspiciatis nam sapiente molestias amet quam
-            nihil doloribus ea, modi quia suscipit similique possimus molestiae
-            quis, reprehenderit optio temporibus? Earum dolorem incidunt
-            possimus impedit maiores, eaque atque error necessitatibus nesciunt
-            adipisci odit aliquam quidem molestias itaque. Maiores laborum quod
-            sed dolore dolorum aspernatur autem sint eligendi voluptatibus,
-            cupiditate deserunt corrupti facere quos asperiores!
+            Our mission is to build the app of everything, creating a diverse and inclusive world for everyone to share short and long blog posts.
+            <a href="/posts/about-multividas" class="link fw-bold text-primary mx-2">
+              <span class="me-2">Read more</span>
+              <RightSvg :x="16"></RightSvg>
+            </a>
           </p>
-        </div>
-      </div>
+        </section>
+      </article>
+      <article class="card mb-4">
+        <header class="card-header">
+          <h2 class="fw-bold text-primary">What is Multividas.com?</h2>
+        </header>
+        <section class="card-body">
+          <p>
+            With Multividas.com, you can share short texts and posts.
+            <a href="/posts/what-is-multividas" class="link fw-bold text-primary mx-2">
+              <span class="me-2">Read more</span>
+              <RightSvg :x="16"></RightSvg>
+            </a>
+          </p>
+        </section>
+      </article>
     </main>
   </MainLayout>
 </template>
 
 <script>
+import RightSvg from "~/svgs/RightSvg.vue"
+
 export default {
   metaInfo: {
-    title: "Multividas blog",
+    title: "Multividas Blog",
   },
+  components: {
+    RightSvg
+  }
 };
 </script>
 
 <style>
+  .link:hover {
+    text-decoration: underline !important;
+  }
 </style>
-
-<style scoped></style>

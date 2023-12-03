@@ -7,9 +7,19 @@
           <g-link to="/" class="navbar-brand text-primary fw-bold fs-4">Blog</g-link>
         </strong>
       </div>
-      <ul class="d-flex justify-content-end align-items-start gap-4">
+      <ul class="d-flex justify-content-end align-items-center gap-4">
         <li class="d-none d-md-block nav-item">
-          <a class="btn btn-sm btn-light border fw-medium px-3 py-2 rounded-4" href="https://multividas.com/"
+          <a
+            class="fw-medium text-dark"
+            href="https://github.com/multividas/blog-multividas/"
+            target="_blank">
+            GitHub Source
+          </a>
+        </li>
+        <li class="nav-item">
+          <a
+            class="btn btn-sm btn-light border fw-medium px-3 py-2 rounded-4"
+            href="https://multividas.com/"
             target="_blank">
             Go to Multividas.com
           </a>
