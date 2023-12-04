@@ -25,4 +25,8 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style>
+.g-link:hover {
+  text-decoration: underline !important;
+}
+</style>

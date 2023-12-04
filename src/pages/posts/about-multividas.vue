@@ -19,7 +19,7 @@
           <div class="my-3">
             <section class="mb-5">
               <h2 class="fw-bold text-primary mb-2">Who we are?</h2>
-              <p>
+              <p class="lh-lg">
                 Multividas.com began in CEO-founder
                 <a
                   href="https://soulaimaneyahya.com/"
@@ -33,7 +33,7 @@
 
             <section class="mb-5">
               <h2 class="fw-bold text-primary mb-2">We are on a mission!</h2>
-              <p>
+              <p class="lh-lg">
                 Our mission is to build the app of everything, creating a
                 diverse and inclusive world for everyone to share short and long
                 blog posts.
@@ -44,7 +44,7 @@
               <h2 class="fw-bold text-primary mb-2">
                 Share Your Threads Posts
               </h2>
-              <p>
+              <p class="lh-lg">
                 Explore the diverse world of Multividas.com, a social media and
                 blogging platform that empowers users to share their short texts
                 and posts. Our platform encourages engagement through comments
@@ -54,7 +54,7 @@
 
             <section class="mb-5">
               <h2 class="fw-bold text-primary mb-2">Blog Your Articles</h2>
-              <p>
+              <p class="lh-lg">
                 Multividas.com, your go-to social media and blogging platform.
                 Here, you can share your long texts and posts, providing readers
                 with insightful content. Engage in meaningful discussions by
@@ -67,7 +67,7 @@
               <h2 class="fw-bold text-primary mb-2">
                 Hashtags and Trending Topics
               </h2>
-              <p>
+              <p class="lh-lg">
                 Discover, engage with, and stay informed about the latest
                 trending threads and posts by exploring hashtags and topics. You
                 can also search for specific topics of interest to you.
@@ -83,7 +83,7 @@
                 provide more information and details over the upcoming weeks and
                 months.
               </p>
-              <p>
+              <p class="lh-lg">
                 Stay tuned ⌛ :
                 <a
                   href="https://multividas.com"
