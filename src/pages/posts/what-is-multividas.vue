@@ -54,7 +54,7 @@
                 platform for information dissemination and social interaction.
               </p>
               <p class="lg-lg mb-2">
-                Multividas is a 'microblogging' system that allows you to send and receive short posts called "threads".
+                Multividas is a <b>'microblogging'</b> system that allows you to send and receive short posts called "threads".
               </p>
               <p class="lh-lg mb-2">
                 Stay tuned ⌛ :
