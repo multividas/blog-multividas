@@ -32,9 +32,7 @@
         </header>
         <section class="card-body">
           <p>
-            Multividas.com is a social media and blogging platform where people
-            can share their short texts and posts, leaving comments and having
-            discussions on threads...
+            Multividas.com is a social media and blogging platform where you can share short texts and posts, leaving comments and having discussions on threads.
           </p>
           <a
             href="/posts/what-is-multividas"

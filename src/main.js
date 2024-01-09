@@ -46,7 +46,7 @@ export default function (Vue, { head }) {
     content: 'Explore the diverse world of Multividas.'
   }, {
     name: 'description',
-    content: 'Multividas.com is a social media and blogging platform where people can share their short texts and posts, leaving comments and have discussions on threads.'
+    content: 'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
   }, {
     name: 'keywords',
     content: 'multividas, multividas api documentation, multividas threads, multividas status, multividas help center, multividas developer, multividas about us, multividas ads, multividas engineering blog, multividas developers documentation, multividas embed threads'
@@ -61,7 +61,7 @@ export default function (Vue, { head }) {
   // opengraph meta tags
   head.meta.push({
     property: 'og:description',
-    content: 'Multividas.com is a social media and blogging platform where people can share their short texts and posts, leaving comments and have discussions on threads.'
+    content: 'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
   }, {
     property: 'og:image',
     content: 'https://developers.multividas.com/images/logo.svg'
@@ -85,7 +85,7 @@ export default function (Vue, { head }) {
     content: 'Multividas - Social Media and Blogging Platform'
   }, {
     name: 'twitter:description',
-    content: 'Multividas.com is a social media and blogging platform where people can share their short texts and posts, leaving comments and have discussions on threads.'
+    content: 'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
   }, {
     name: 'twitter:image',
     content: 'https://developers.multividas.com/images/logo.svg'
