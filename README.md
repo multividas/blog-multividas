@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a711efc4-d484-4a01-b3a1-002f35066478/deploy-status)](https://app.netlify.com/sites/blog-mv/deploys)
+
 # Multividas blog
 
 Official Multividas Blog - Your go-to source for insights and information about Multividas
