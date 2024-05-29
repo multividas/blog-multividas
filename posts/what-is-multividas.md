@@ -7,7 +7,7 @@ xgravatar: 79a5d0ba1e00cdf55c19b5a4792a043d79369cad45842de56b004983d38c504e
 twitter: '@soulaimaneyh'
 ---
 
-With Multividas.com you can share short texts and posts, leaving comments and have discussions on threads.
+With Multividas, you can share threads, publish articles and news.
 
 ---
 

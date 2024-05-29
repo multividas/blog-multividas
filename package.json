@@ -1,9 +1,9 @@
 {
   "name": "blog-multividas.com",
-  "private": true,
   "type": "module",
   "version": "1.0.0",
-  "description": "With Multividas.com you can share short texts and posts, leaving comments and have discussions on threads.",
+  "license": "MIT",
+  "description": "With Multividas, you can share threads, publish articles and news.",
   "keywords": [
     "multividas",
     "multividas blogs",
@@ -11,8 +11,8 @@
   ],
   "authors": [
     {
-      "name": "soulaimaneyahya",
-      "email": "contact@soulaimaneyahya.com"
+      "name": "Multividas",
+      "email": "multividasdotcom@gmail.com"
     }
   ],
   "scripts": {
@@ -34,6 +34,14 @@
     "overrides": {
       "@vitejs/plugin-vue": "5.0.0-beta.1"
     }
+  },
+  "bugs": {
+    "url": "https://github.com/multividas/blog-multividas/issues"
+  },
+  "homepage": "https://github.com/multividas/blog-multividas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/multividas/blog-multividas.git"
   },
   "engines": {
     "nvm": "20",
